@@ -96,3 +96,6 @@ mvn test
 It will generate `surefile-reports`. 
 
 Addionally, right after test completion, test result file will be uploaded on your JIRA instance if you have provided correct details in properties file. 
+
+
+*************Great Example for Test Results tov iew with TestNG plugin"
